@@ -1,0 +1,6 @@
+{
+  "keyboard_name": "xiao_rp2040_3x3_encoder",
+  "manufacturer": "Custom",
+  "processor": "RP2040",
+  "bootloader": "rp2040"
+}
