@@ -18,15 +18,14 @@ and the selected layer is  displaced on the screen.so in total we have  keys out
 | Item | Price (USD) | Source |
 |------|------------:|--------|
 | PCB + Shipping (after coupons) | 9.73 | JLCPCB |
-| XIAO RP2040 | 10.50 | https://www.amazon.in/gp/product/B0FVF1V3P4 |
-| Keycaps (Pack of 10, incl. shipping) | 5.10 | https://www.amazon.in/gp/product/B0GLPFQK6R |
-| Switches (Pack of 10) | 3.65 | https://neomacro.in/products/hmx-snowfall-tactile-switch |
-| Kailh Choc Hot-Swap Sockets (Pack of 10) | 1.55 | https://neomacro.in/products/kailh-choc-pg1350-hot-swap-sockets |
-| NeoMacro Shipping | 1.10 | https://neomacro.in |
-| 3D Printed Case | ≤ 5.00 | #printing-legion-india |
-| Diodes (10 pcs) | Already owned | — |
-| Rotary Encoder | Already owned | — |
-| **Total** | **36.63** | |
+| Xiao RP2040 + Shipping | 7.17 | https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board |
+| Keycaps (Pack of 5) ×2 | 2.15 | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/ |
+| Switches (Pack of 10) | 2.15 | https://neomacro.in/products/hmx-snowfall-tactile-switch |
+| Hot-Swap Sockets (Pack of 10) | 0.86 | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/ |
+| Meckeys Shipping | 1.10 | https://meckeys.com |
+| Diodes (10 pcs) | Already have | — |
+| Rotary Encoder | Already have | — |
+| **Total** | **21.01** | |
 
 ### Schematic<br><br>
 <img width="1066" height="467" alt="Screenshot 2026-06-03 131612" src="https://github.com/user-attachments/assets/1ef2f173-96f4-4b12-bf19-059357133652" />
